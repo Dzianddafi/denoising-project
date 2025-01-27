@@ -1,4 +1,4 @@
-**Deep learning-based Random Noise Denoising for Seismic Data**
+# Deep learning-based Random Noise Denoising for Seismic Data
 
 This is a repository for my final project assignment in Machine Learning in Geophysics course at Institut Teknologi Bandung.
 The objective of the final project is to implement a deep learning approach to solve geophysical issues. It is up to the students
@@ -10,7 +10,7 @@ I found my final project really fun and so that this project will be my independ
 i will develop during my free time and I will be very open to any discussion regarding this project. So, feel free to hit me up 
 if you have any idea that can be useful for this project :D
 
-**Project Overview**
+## Project Overview
 Seismic data plays a critical role in subsurface exploration, such as oil and gas exploration, earthquake monitoring, and 
 geotechnical studies. However, seismic signals are often contaminated with random noise, which can obscure valuable subsurface information. 
 
