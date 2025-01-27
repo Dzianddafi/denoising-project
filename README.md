@@ -10,4 +10,12 @@ I found my final project really fun and so that this project will be my independ
 i will develop during my free time and I will be very open to any discussion regarding this project. So, feel free to hit me up 
 if you have any idea that can be useful for this project :D
 
+**Project Overview**
+Seismic data plays a critical role in subsurface exploration, such as oil and gas exploration, earthquake monitoring, and 
+geotechnical studies. However, seismic signals are often contaminated with random noise, which can obscure valuable subsurface information. 
+
+Deep learning, particularly convolutional neural networks (CNNs) like U-Net, has shown great potential in enhancing 
+signal-to-noise ratios while preserving intricate details. The diagram below represents the flowchart that being used in this project
+
+![flowchart fpml drawio](https://github.com/user-attachments/assets/56637b39-2e2a-49dc-b4e3-133b94cef390)
 
