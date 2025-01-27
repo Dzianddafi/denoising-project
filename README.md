@@ -38,8 +38,7 @@ This step is crucial as it will play most of this project. Note that the shape r
 Hyperparameters selection is also important as it will find the best weights and biases for the network. It will also being fine tuned and updated as I will take this as my independent research project.
 ![Screenshot 2025-01-27 at 10 08 46](https://github.com/user-attachments/assets/6aed300e-ebf3-4133-a4b3-c57eb15e5a8c)
 
-## Real Dataset
-The real dataset being used is the 
+## Real Dataset 
 ![Screenshot 2025-01-27 at 10 09 33](https://github.com/user-attachments/assets/53f511a9-1f76-401c-96db-94489c44f327)
 
 ## References
