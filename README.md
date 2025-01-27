@@ -41,3 +41,17 @@ Hyperparameters selection is also important as it will find the best weights and
 ## Real Dataset
 The real dataset being used is the 
 ![Screenshot 2025-01-27 at 10 09 33](https://github.com/user-attachments/assets/53f511a9-1f76-401c-96db-94489c44f327)
+
+## References
+Ronneberger, O., Fischer, P., & Brox, T. (2015). U-NET: Convolutional Networks for
+Biomedical Image Segmentation. In Lecture notes in computer science (pp. 234–241).
+https://doi.org/10.1007/978-3-319-24574-4_28
+
+Li, J., Wu, X., & Hu, Z. (2020). Deep learning for simultaneous seismic image super-resolution
+and denoising. SEG International Exposition and 90th Annual Meeting.
+https://doi.org/10.1190/segam2020-3426412.1
+
+### Other useful references for deep learning applications in random noise suppression on seismic data.
+Liu, D., Wang, W., Chen, W., Wang, X., Zhou, Y., & Shi, Z. (2018). Random-noise suppression in seismic data: 
+What can deep learning do? SEG International Exposition and 88th Annual Meeting, 2016–2020. 
+https://doi.org/10.1190/segam2018-2998114.1
